@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mon_Hoc\\Th_Architectual_Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\mon_hoc\\th_architectual_design\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\mon_hoc\\th_architectual_design\\asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\mon_hoc\\th_architectual_design\\asc.dataaccess\\reponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\reponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\mon_hoc\\th_architectual_design\\asc.dataaccess\\asc.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\asc.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|e:\\mon_hoc\\th_architectual_design\\asc.dataaccess\\interfaces\\ireponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F344A2-957B-413F-9C4B-481162C6E813}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\ireponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|e:\\mon_hoc\\th_architectual_design\\asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE2D3367-C1B5-4067-8764-70B10DB3FF84}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFCFF50-4F5D-4B12-91E8-439206FAE28C}|ASC.Utilities\\ASC.Utilities.csproj|e:\\mon_hoc\\th_architectual_design\\asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FFCFF50-4F5D-4B12-91E8-439206FAE28C}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|e:\\mon_hoc\\th_architectual_design\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUniOfWork.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:15:55.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:10:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reponsitory.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Reponsitory.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Reponsitory.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Reponsitory.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Reponsitory.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:02:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASC.DataAccess",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\ASC.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\ASC.DataAccess.csproj",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\ASC.DataAccess.csproj",
+              "RelativeToolTip": "ASC.DataAccess\\ASC.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T04:19:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReponsitory.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Interfaces\\IReponsitory.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IReponsitory.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.DataAccess\\Interfaces\\IReponsitory.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IReponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:19:54.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:57:56.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:57:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterDatakey.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\MasterDatakey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDatakey.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Models\\MasterDatakey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDatakey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:57:09.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuditTracker.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\IAuditTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Basetypes\\IAuditTracker.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\IAuditTracker.cs",
+              "RelativeToolTip": "ASC.Model\\Basetypes\\IAuditTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:56:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\Constants.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Basetypes\\Constants.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\Constants.cs",
+              "RelativeToolTip": "ASC.Model\\Basetypes\\Constants.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:55:44.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Basetypes\\BaseEntity.cs",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\Basetypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\Basetypes\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:52:58.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ASC.Utilities.csproj",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeToolTip": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T14:25:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.Model\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T13:55:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:47:41.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
